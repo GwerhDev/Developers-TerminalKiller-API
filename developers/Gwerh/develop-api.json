@@ -35,13 +35,13 @@
       {
         "published": true,
         "featured": true,
-        "href": "https://shadowgardians.netlify.app",
+        "href": "https://shadowflame.netlify.app",
         "repository": {
-          "frontend": "https://github.com/GwerhDev/Shadowgardians-Client",
-          "backend": "https://github.com/GwerhDev/Shadowgardians-API",
+          "frontend": "https://github.com/GwerhDev/ShadowFlame-Client",
+          "backend": "https://github.com/GwerhDev/ShadowFlame-API",
           "code": ""
         },
-        "name": "SHADOWGARDIANS",
+        "name": "SHADOWFLAME",
         "description": {
           "en": "Companion app for 'Diablo Immortal' e-sport clan. Includes login with battlenet API, list of tasks to do for clan members and a help chatbot with a 'Cohere' artificial intelligence model",
           "es": "Aplicación complementaria para clan e-sport 'Diablo Immortal'. Incluye inicio de sesión con API de Battlenet, lista de tareas a realizar para los miembros del clan y un chatbot de ayuda con un modelo de inteligencia artificial 'Cohere'."
