@@ -238,7 +238,8 @@
         },
         "img": "https://streamby.s3.sa-east-1.amazonaws.com/GwerhDev/Portfolio/image/streamby-img.jpg",
         "gallery": [
-          "https://streamby.s3.sa-east-1.amazonaws.com/GwerhDev/Portfolio/image/streamby-img.jpg"
+          "https://streamby.s3.sa-east-1.amazonaws.com/GwerhDev/Portfolio/image/streamby-img.jpg",
+          "https://streamby.s3.sa-east-1.amazonaws.com/GwerhDev/Portfolio/image/streamby-img-1.jpg"
         ]
       },
       {
