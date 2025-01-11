@@ -243,7 +243,7 @@
         ]
       },
       {
-        "published": true,
+        "published": false,
         "featured": false,
         "href": "https://getexpert.netlify.app/",
         "repository": {
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "published": true,
+        "published": false,
         "featured": false,
         "href": "https://gwerhdev.github.io/Three-Template/",
         "repository": {
