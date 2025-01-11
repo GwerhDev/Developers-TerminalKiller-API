@@ -329,7 +329,7 @@
       {
         "published": true,
         "featured": true,
-        "href": "https://terminalkiller.netlify.app/ai-testing",
+        "href": "https://terminalkiller.cl/ai-testing",
         "repository": {
           "frontend": "https://github.com/GwerhDev/ArtificialIntelligence-Client",
           "backend": "https://github.com/GwerhDev/ArtificialIntelligence-API",
@@ -500,7 +500,7 @@
       {
         "published": true,
         "featured": false,
-        "href": "http://projects-terminalkiller.netlify.app/",
+        "href": "http://projects.terminalkiller.cl/",
         "repository": {
           "frontend": "https://github.com/GwerhDev/Projects-TerminalKiller",
           "backend": "",
@@ -592,7 +592,7 @@
       {
         "published": true,
         "featured": false,
-        "href": "https://terminalkiller.netlify.app/#/pawesomecare/download/mobile",
+        "href": "https://terminalkiller.cl/pawesomecare/download/mobile",
         "repository": {
           "frontend": "https://github.com/TerminalKiller-Project/client-petapp",
           "backend": "",
